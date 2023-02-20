@@ -14,6 +14,9 @@ Extra credit, use a large dataset (300K+ users)
 
 
 ## Group members: 
-Jack Kalavadia (016197519)
-Rutvik Moradiya (016656367)
-Ujwala Balbhim Mote (016711396)
+
+- Jack Kalavadia (016197519)
+
+- Rutvik Moradiya (016656367)
+
+- Ujwala Balbhim Mote (016711396)
